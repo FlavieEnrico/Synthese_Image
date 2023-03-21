@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/TP3_exo2_triangle.dir/exo2_triangle.cpp.o -o TP3_exo2_triangle  ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 ../../third-party/libGLEW.a 

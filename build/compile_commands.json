@@ -1,0 +1,127 @@
+[
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Cone.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Cone.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Cone.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Geometry.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Geometry.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Geometry.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Image.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Image.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Image.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Program.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Program.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Program.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/SDLWindowManager.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/SDLWindowManager.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/SDLWindowManager.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Shader.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Shader.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Shader.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/Sphere.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Sphere.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/Sphere.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/glimac",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/glimac.dir/src/tiny_obj_loader.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/tiny_obj_loader.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/src/tiny_obj_loader.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo5_disc.dir/exo5_disc.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo5_disc.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo5_disc.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo4_quad.dir/exo4_quad.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo4_quad.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo4_quad.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo3_structure_vertex.dir/exo3_structure_vertex.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo3_structure_vertex.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo3_structure_vertex.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo2_triangle_couleurs.dir/exo2_triangle_couleurs.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo2_triangle_couleurs.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo2_triangle_couleurs.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo6_index_buffer.dir/exo6_index_buffer.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo6_index_buffer.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo6_index_buffer.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_exo1_triangle_blanc.dir/exo1_triangle_blanc.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo1_triangle_blanc.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/exo1_triangle_blanc.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP1",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP1_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/SDLtemplate.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP1/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP2",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo3_halo.dir/exo3_halo.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo3_halo.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo3_halo.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP2",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo2_trg_shader_param.dir/exo2_trg_shader_param.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo2_trg_shader_param.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo2_trg_shader_param.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP2",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_exo1_triangle_vertex_shader.dir/exo1_triangle_vertex_shader.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo1_triangle_vertex_shader.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/exo1_triangle_vertex_shader.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP2",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP2_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/SDLtemplate.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP2/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP3",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP3_exo2_triangle.dir/exo2_triangle.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/exo2_triangle.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/exo2_triangle.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP3",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP3_exo1_mandelbrot.dir/exo1_mandelbrot.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/exo1_mandelbrot.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/exo1_mandelbrot.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP3",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP3_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/SDLtemplate.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP3/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TP_template",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TP_template_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP_template/SDLtemplate.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TP_template/SDLtemplate.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TPgarbage",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TPgarbage_foo.dir/foo.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TPgarbage/foo.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TPgarbage/foo.cpp"
+},
+{
+  "directory": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/build/TPgarbage",
+  "command": "/usr/bin/clang++  -I/usr/include/SDL -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/glimac/include -I/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/third-party/include -g   -std=c++11 -o CMakeFiles/TPgarbage_SDLtemplate.dir/SDLtemplate.cpp.o -c /home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TPgarbage/SDLtemplate.cpp",
+  "file": "/home/6ima2/flavie.enrico/Documents/SyntheseImageS4/GLImac-Template/TPgarbage/SDLtemplate.cpp"
+}
+]

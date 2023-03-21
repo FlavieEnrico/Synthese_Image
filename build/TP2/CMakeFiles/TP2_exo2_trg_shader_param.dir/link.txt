@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/TP2_exo2_trg_shader_param.dir/exo2_trg_shader_param.cpp.o -o TP2_exo2_trg_shader_param  ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 ../../third-party/libGLEW.a 
